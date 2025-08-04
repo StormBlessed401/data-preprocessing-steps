@@ -1,4 +1,4 @@
-# CSV Data Preprocessing Script
+# CSV Data Preprocessing Script --> General preprocessing stepsa AS WELL AS preprocessing usinng Regular Expression (RE)
 
 This repository contains a Python script for preprocessing CSV data before using it in machine learning or data analysis tasks. The script uses popular libraries like `pandas`, `numpy`, and `scikit-learn` to handle missing values, encode categorical features, scale numerical data, and prepare the dataset for modeling.
 
@@ -69,3 +69,4 @@ pip install pandas numpy scikit-learn
 - This script is meant as a starting point. You may need to modify steps depending on your specific dataset and problem.
 - Be careful when dropping missing values, especially if they are frequent.
 - For more complex tasks like text classification, time series forecasting, or image data processing, additional preprocessing steps will be needed.
+
